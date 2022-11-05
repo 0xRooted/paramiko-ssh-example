@@ -1,0 +1,10 @@
+{
+    "host": "0.0.0.0",
+    "port": 333,
+    "ssh_rsa_key_path": "D:\\PY SSH NET\\ssh_keys\\rsa.key",
+    "ssh_prompt": "SYNC: ",
+    "log_ssh_connections": true,
+    "log_ssh_connection_errors": true,
+    "default_user": "test",
+    "defualt_password": "test"
+}
